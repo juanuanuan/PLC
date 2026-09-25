@@ -29,6 +29,6 @@ se garantirmos única e exclusivamente que, num estado de um dado autómato repr
 
 ## Resultados
 
-[Expressão Regular](expressao.ipynb)
+[Expressão Regular](er.ipynb)
 
 ---

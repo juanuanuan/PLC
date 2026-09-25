@@ -11,7 +11,7 @@ Nº Mec.: A111657
 **Foto:**
 
 
-[Fotografia](img.png)
+<img src="img.png" alt="Fotografia" width="110">
 
 ---
 

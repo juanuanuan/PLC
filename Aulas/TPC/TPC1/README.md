@@ -1,4 +1,4 @@
-## TPC1 PLC26
+**## TPC1 PLC26
 
 ---
 ## Autoria
@@ -31,4 +31,4 @@ se garantirmos única e exclusivamente que, num estado de um dado autómato repr
 
 [Expressão Regular](er.ipynb)
 
----
+---**
